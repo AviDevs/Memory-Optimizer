@@ -4,7 +4,7 @@ Memory Optimizer
 Memory Optimizer es una aplicación simple desarrollada en Python que permite a los usuarios monitorizar y optimizar el uso de memoria en sus sistemas. La aplicación proporciona información en tiempo real sobre el uso de memoria, el rendimiento de la CPU y los procesos en ejecución. Además, ofrece la capacidad de optimizar la memoria con un solo clic y gestionar los procesos en ejecución.
 
 Novedades:
-Versión 1.0 (Fecha de Lanzamiento: [Fecha])
+Versión 1.0 (Fecha de Lanzamiento: [25/11/2023])
 Monitorización en Tiempo Real:
 
 Visualiza gráficamente el uso de memoria en tiempo real con opciones para gráfico de barras o de líneas.
